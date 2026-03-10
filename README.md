@@ -23,7 +23,8 @@ Esta aplicación permite a los operadores de bodega escanear artículos de una t
 
 ## 📸 Capturas de pantalla
 
-> Agrega aquí tus capturas una vez tengas la app corriendo.
+![Dashboard](docs/screenshots/dashboard.png)
+![Dashboard](docs/screenshots/image.png)
 
 ```
 docs/
@@ -157,10 +158,7 @@ pistoleo-v2/
 ## 👨‍💻 Autor
 
 Desarrollado por **Marco Rodriguez**  
-San Pedro
+
 
 ---
 
-## 📄 Licencia
-
-Este proyecto es de uso interno. Todos los derechos reservados.
