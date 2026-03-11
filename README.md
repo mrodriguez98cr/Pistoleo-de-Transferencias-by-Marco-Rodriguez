@@ -27,7 +27,7 @@ Esta aplicación permite a los operadores de bodega escanear artículos de una t
 ![Dashboard](docs/screenshots/image.png)
 
 ```
-
+```
 
 ## 🚀 Instalación
 
